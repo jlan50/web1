@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA BookMap//EN" "bookmap.dtd">
+<bookmap class="- map/map bookmap/bookmap ">
+	<booktitle class="- topic/title bookmap/booktitle ">
+		<mainbooktitle class="- topic/ph bookmap/mainbooktitle ">ASA.Next</mainbooktitle>
+	</booktitle>
+	<bookmeta class="- map/topicmeta bookmap/bookmeta ">
+		<prodinfo class="- topic/prodinfo ">
+			<prodname class="- topic/prodname ">LD00955</prodname>
+			<vrmlist class="- topic/vrmlist ">
+				<vrm version="1.0.0" class="- topic/vrm "/>
+			</vrmlist>
+		</prodinfo>
+	</bookmeta>
+	<frontmatter class="- map/topicref bookmap/frontmatter ">
+		<booklists class="- map/topicref bookmap/booklists ">
+			<toc class="- map/topicref bookmap/toc "/>
+		</booklists>
+	</frontmatter>
+	<chapter href="c1-0_Introduction.dita" class="- map/topicref bookmap/chapter "/>
+	<chapter href="c2-0_lab_activities.dita" class="- map/topicref bookmap/chapter ">
+		<topicref href="c2-1_Install_and_Setup.dita" class="- map/topicref "/>
+		<topicref href="c2-2_SAN_Client_Connection.dita" class="- map/topicref "/>
+		<topicref href="c2-3_Provision_Storage.dita" class="- map/topicref "/>
+		<topicref href="c2-4_Protect_Your_Data.dita" class="- map/topicref "/>
+		<topicref href="c2-5_Secure_Your_Data.dita" class="- map/topicref "/>
+		<topicref href="c2-6_Manage_Your_Data.dita" class="- map/topicref "/>
+		<topicref href="c2-7_Administration_and_Monitoring.dita" class="- map/topicref "/>
+	</chapter>
+	<chapter href="c3-0_Summary.dita" class="- map/topicref bookmap/chapter "/>
+	<chapter href="c4-0_Additional_Information.dita" class="- map/topicref bookmap/chapter ">
+		<topicref href="c4-1_References.dita" class="- map/topicref "/>
+		<topicref href="c4-2_Lab_Environment.dita" class="- map/topicref "/>
+		<topicref href="c4-3_Version_History.dita" class="- map/topicref "/>
+	</chapter>
+</bookmap>

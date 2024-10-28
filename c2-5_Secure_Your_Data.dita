@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA 1.3 Concept//EN" "concept.dtd">
+<concept id="concept-7umkuo0g" xml:lang="en-us" class="- topic/topic concept/concept ">
+    <title class="- topic/title ">Secure Your Data</title>
+    <prolog class="- topic/prolog ">
+        <author translate="no" type="creator" class="- topic/author ">name
+            &lt;name@netapp.com&gt;</author>
+    </prolog>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">As the Compliance officer, I want to be able to validate that critical
+            security, compliance (ransomware where applicable), and encryption protection is enabled
+            across my SAN storage to meet my environmental regulations.</p>
+        <p class="- topic/p ">In this activity you will perform the following tasks:</p>
+        <table colsep="1" frame="all" id="table_qpf_xd4_s2b" rowsep="1" class="- topic/table ">
+            <tgroup cols="1" class="- topic/tgroup ">
+                <colspec colname="c1" colnum="1" colwidth="1*" class="- topic/colspec "/>
+                <thead class="- topic/thead ">
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry ">Tasks</entry>
+                    </row>
+                </thead>
+                <tbody class="- topic/tbody ">
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry ">Security overview</entry>
+                    </row>
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry ">Encrypt data at rest (enabling encryption will
+                            also be covered as part of system setup)</entry>
+                    </row>
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry ">Protect against ransomware attacks</entry>
+                    </row>
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry ">Secure NVMe/TCP connections (securing NVMe/TCP
+                            connections will also be covered in the task for adding a host (or NVMe
+                            subsystem))</entry>
+                    </row>
+                    <row class="- topic/row "/>
+                </tbody>
+            </tgroup>
+        </table>
+        <ol id="ol_z12_5y3_2cc">
+            <li/>
+        </ol>
+    </conbody>
+</concept>

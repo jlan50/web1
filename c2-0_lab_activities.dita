@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA 1.3 Concept//EN" "concept.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="concept-3597" xml:lang="en-us" domains="(topic concept)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)    " ditaarch:DITAArchVersion="1.2" class="- topic/topic concept/concept ">
+    <title class="- topic/title ">Lab Activities</title>
+    <shortdesc class="- topic/shortdesc "/>
+    <prolog class="- topic/prolog ">
+        <author type="creator" translate="no" class="- topic/author ">name&lt;name@netapp.com&gt;</author>
+        <metadata class="- topic/metadata ">
+            <keywords class="- topic/keywords "/>
+        </metadata>
+    </prolog>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">In this lab you will explore the following topics:</p>
+        <ul id="ul_wsf_wcp_3rb" class="- topic/ul ">
+            <li class="- topic/li "><xref href="c2-1_Install_and_Setup.dita" class="- topic/xref "/></li>
+            <li class="- topic/li "><xref href="c2-2_SAN_Client_Connection.dita" class="- topic/xref "/></li>
+            <li class="- topic/li "><xref href="c2-3_Provision_Storage.dita" class="- topic/xref "/></li>
+            <li class="- topic/li "><xref href="c2-4_Protect_Your_Data.dita" class="- topic/xref "/></li>
+            <li class="- topic/li "><xref href="c2-5_Secure_Your_Data.dita" class="- topic/xref "/></li>
+            <li class="- topic/li "><xref href="c2-6_Manage_Your_Data.dita" class="- topic/xref "/></li>
+            <li class="- topic/li "><xref href="c2-7_Administration_and_Monitoring.dita" class="- topic/xref "/></li>
+        </ul>
+    </conbody>
+</concept>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA 1.3 Concept//EN" "concept.dtd">
+<concept id="concept-uxvvnya7" xml:lang="en-us" class="- topic/topic concept/concept ">
+	<title class="- topic/title ">References</title>
+	<shortdesc class="- topic/shortdesc "/>
+	<prolog class="- topic/prolog ">
+		<author translate="no" type="creator" class="- topic/author ">name
+			&lt;name@netapp.com&gt;</author>
+	</prolog>
+	<conbody class="- topic/body  concept/conbody ">
+		<p outputclass="ID-00000099" class="- topic/p "> The following references were used in support of this Early Access Program lab.</p>
+		<ul id="ul_txg_mft_ctb" class="- topic/ul ">
+			<li class="- topic/li "><xref format="html" href="https://docs.netapp.com/ontap-9/index.jsp" scope="external" class="- topic/xref ">ONTAP 9 Documentation</xref></li>
+			<li class="- topic/li "><xref href="https://community.netapp.com/t5/ONTAP-9-14-1-EAP/gh-p/ontap_9141_eap" format="html" scope="external" class="- topic/xref ">ONTAP 9.14.1 EAP Community Feedback</xref> page</li>
+			<li class="- topic/li "><xref href="https://www.netapp.com/pdf.html?item=/media/10674-tr4569.pdf" format="pdf" scope="external" class="- topic/xref ">TR-4569 Security Hardening Guide for NetApp ONTAP</xref></li>
+		</ul>
+	</conbody>
+</concept>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA 1.3 Concept//EN" "concept.dtd">
+<concept id="concept-4m310zag" xml:lang="en-us" class="- topic/topic concept/concept ">
+    <title class="- topic/title ">Administration and Monitoring</title>
+    <prolog class="- topic/prolog ">
+        <author translate="no" type="creator" class="- topic/author ">name
+            &lt;name@netapp.com&gt;</author>
+    </prolog>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">As the IT Generalist, I want to ensure that my cluster is running
+            optimally and I want to monitor critical performance, alerts, and issues in my SAN
+            storage environment.</p>
+        <p class="- topic/p ">In this activity you will perform the following tasks:</p>
+        <table colsep="1" frame="all" id="table_qpf_xd4_s2b" rowsep="1" class="- topic/table ">
+            <tgroup cols="1" class="- topic/tgroup ">
+                <colspec colname="c1" colnum="1" colwidth="1*" class="- topic/colspec "/>
+                <thead class="- topic/thead ">
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry ">Tasks</entry>
+                    </row>
+                </thead>
+                <tbody class="- topic/tbody ">
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry ">Update firmware (remove if not available from
+                            the Cluster &gt; Settings page)</entry>
+                    </row>
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry ">View insights to help optimize your
+                            system</entry>
+                    </row>
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry ">Manage cluster networking</entry>
+                    </row>
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry ">View cluster events and jobs</entry>
+                    </row>
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry ">Reboot, take over, and give back nodes </entry>
+                    </row>
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry ">Rename nodes</entry>
+                    </row>
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry ">Manage client access to storage VMs (rare that you'd need more than
+                            one)</entry>
+                    </row>
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry ">Manage AutoSupport</entry>
+                    </row>
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry ">View and submit support cases</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        <ol id="ol_kbm_pz3_2cc" class="- topic/ol ">
+            <li class="- topic/li "/>
+        </ol>
+    </conbody>
+</concept>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA 1.3 Concept//EN" "concept.dtd">
+<concept id="concept-rppewngv" xml:lang="en-us" class="- topic/topic concept/concept ">
+    <title class="- topic/title ">Introduction</title>
+    <shortdesc class="- topic/shortdesc "/>
+    <prolog class="- topic/prolog ">
+        <author translate="no" type="creator" class="- topic/author ">name
+            &lt;name@netapp.com&gt;</author>
+    </prolog>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p "/>
+        <p class="- topic/p ">All of the storage arrays presented in this lab are virtual devices. The virtual storage controllers offer nearly all the same functionality that physical storage controllers offer, but at a reduced performance profile. As such, this lab is not suitable for performance testing.</p>
+        <p class="- topic/p ">This document provides a brief overview of the labs components, login credentials, services and tools, along with any potential use cases for which product management would like your feedback. It also provides activities that explore new features and enhancements introduced in ONTAP 9.14.1.</p>
+    </conbody>
+</concept>
